@@ -22,7 +22,6 @@ Design:
 •	Software Requirement 
 •	System Architecture 
 •	Process Model 
-
 PRAC – 11/03/2021
 -	The tasks I was assigned was to add the square element into the diagram and label it, also was assigned to label all the arrows in the diagram. 
 -	Yes, I did, I needed the shapes to be completed before I could start labelling the arrows and adding the other things in
@@ -37,7 +36,6 @@ We installed anaconda and used jupyter notebooks to some challenge questions and
 PRAC – 25/03/21
 This week was just a continuation of last week and just continued using the different data sets and uploading them onto GitHub and did the week HAR-week5 jupyter script and started to answer all the questions and we managed to do this as a group so it was easier for us to understand each question and it was less time consuming and we could finish early and start working on the other things.
 The challenge questions were pretty challenging and we managed to complete a few but not everything, but we started to get the hang of it and our group was being really productive and there was no issues that we encountered.
-
 PRAC - 1/04/2021
 This week was just a continuation of last week and just continued using the different data sets and uploading them onto GitHub and did the week HAR-week 6 jupyter script and started to answer all the questions and we managed to do this as a group so it was easier for us to understand each question and it was less time consuming and we could finish early and start working on the other things.
 The challenge questions were challenging, and we managed to complete a few but not everything, but we started to get the hang of it and our group was being productive and there were no issues that we encountered. And this week we managed to complete and upload everything on time, and we had some spare time in our hands, so it was good to use to make sure we completed everything.
